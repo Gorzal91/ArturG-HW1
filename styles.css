@@ -33,7 +33,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 10px; /* Space between child divs */
+    gap: 10px; /* space between child divs */
 }
 
 .child {
